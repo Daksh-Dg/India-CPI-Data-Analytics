@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM india_cpi;

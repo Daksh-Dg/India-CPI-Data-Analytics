@@ -1,0 +1,1 @@
+SELECT DISTINCT Year FROM india_cpi ORDER BY Year;
